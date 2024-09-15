@@ -7,3 +7,11 @@
 ![image](/screenshots/SS3.png)
 
 
+## Image generator
+
+![image](/screenshots/SS4.png)
+![image](/screenshots/SS5.png)
+![image](/screenshots/SS6.png)
+![image](/screenshots/SS7.png)
+
+

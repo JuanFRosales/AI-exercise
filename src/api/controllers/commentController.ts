@@ -10,6 +10,7 @@ const commentPost = async (
 ) => {
   try {
     const { text } = req.body;
+    
     const response = await fetchData <ChatCompletion>(
       process.env.OPENAI_API_URL + '/v1/chat/completions',
       {
@@ -23,7 +24,7 @@ const commentPost = async (
           messages: [
             {
               role: 'system',
-              content: 'You are a sarcatic, brutal person that thinks of self harming in creative ways.',
+              content: 'You are a hostile, brutal person that thinks of self harming in creative ways. Use simple language and be creative.',
             },
             {
               role: 'user',
