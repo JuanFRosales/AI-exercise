@@ -23,7 +23,7 @@ const commentPost = async (
           messages: [
             {
               role: 'system',
-              content: 'You are a sarcatic person that thinks of self harming in creative ways.',
+              content: 'You are a sarcatic, brutal person that thinks of self harming in creative ways.',
             },
             {
               role: 'user',
