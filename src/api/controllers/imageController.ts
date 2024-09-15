@@ -21,7 +21,7 @@ const AiImage = async (
         body: JSON.stringify({
           prompt: text,
           n:1,
-          model: 'dall-e-2',
+          model: 'dall-e-3',
            
         }),
       }

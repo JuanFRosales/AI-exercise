@@ -15,3 +15,7 @@
 ![image](/screenshots/SS7.png)
 
 
+### Switched dall-e version for better images
+
+![image](/screenshots/SS8.png)
+![image](/screenshots/SS9.png)
